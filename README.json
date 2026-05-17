@@ -44,7 +44,7 @@
             "last_commit": "2026-03-06T16:53:52Z",
             "owner": "piccolo-orm",
             "repo": "piccolo_admin",
-            "stars": 466
+            "stars": 465
           }
         },
         {
@@ -54,7 +54,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-11T22:23:52Z",
+            "last_commit": "2026-05-16T12:13:43Z",
             "owner": "smithyhq",
             "repo": "sqladmin",
             "stars": 2724
@@ -89,7 +89,7 @@
             "last_commit": "2026-05-15T12:46:18Z",
             "owner": "yezz123",
             "repo": "authx",
-            "stars": 1169
+            "stars": 1170
           }
         },
         {
@@ -167,7 +167,7 @@
             "last_commit": "2024-04-12T06:58:02Z",
             "owner": "IndominusByte",
             "repo": "fastapi-jwt-auth",
-            "stars": 826
+            "stars": 827
           }
         },
         {
@@ -193,7 +193,7 @@
             "last_commit": "2023-08-02T13:24:12Z",
             "owner": "jacobsvante",
             "repo": "fastapi-security",
-            "stars": 242
+            "stars": 243
           }
         },
         {
@@ -219,7 +219,7 @@
             "last_commit": "2026-03-30T11:30:36Z",
             "owner": "fastapi-users",
             "repo": "fastapi-users",
-            "stars": 6129
+            "stars": 6132
           }
         }
       ],
@@ -310,7 +310,7 @@
                 "last_commit": "2022-12-08T10:32:45Z",
                 "owner": "leosussan",
                 "repo": "fastapi-gino-arq-uvicorn",
-                "stars": 554
+                "stars": 553
               }
             }
           ],
@@ -373,7 +373,7 @@
             "last_commit": "2026-05-11T23:01:33Z",
             "owner": "piccolo-orm",
             "repo": "piccolo",
-            "stars": 1901
+            "stars": 1900
           }
         },
         {
@@ -460,7 +460,7 @@
             "last_commit": "2024-05-21T19:58:17Z",
             "owner": "encode",
             "repo": "databases",
-            "stars": 4004
+            "stars": 4005
           }
         },
         {
@@ -492,7 +492,7 @@
             "last_commit": "2026-05-11T19:31:46Z",
             "owner": "BeanieODM",
             "repo": "beanie",
-            "stars": 2672
+            "stars": 2674
           }
         },
         {
@@ -680,7 +680,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-16T04:57:58Z",
+            "last_commit": "2026-05-16T13:40:47Z",
             "owner": "apitally",
             "repo": "apitally-py",
             "stars": 219
@@ -904,7 +904,7 @@
             "last_commit": "2026-05-15T03:31:55Z",
             "owner": "uriyyo",
             "repo": "fastapi-pagination",
-            "stars": 1654
+            "stars": 1655
           }
         },
         {
@@ -1008,7 +1008,7 @@
             "last_commit": "2026-05-15T16:21:40Z",
             "owner": "open-telemetry",
             "repo": "opentelemetry-python-contrib",
-            "stars": 1046
+            "stars": 1047
           }
         },
         {
@@ -1112,7 +1112,7 @@
             "last_commit": "2026-05-14T10:53:20Z",
             "owner": "strawberry-graphql",
             "repo": "strawberry",
-            "stars": 4654
+            "stars": 4653
           }
         },
         {
@@ -1149,7 +1149,7 @@
             "last_commit": "2026-05-03T18:11:59Z",
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 17268
+            "stars": 17270
           }
         },
         {
@@ -1175,7 +1175,7 @@
             "last_commit": "2026-05-12T20:09:55Z",
             "owner": "ivan-borovets",
             "repo": "fastapi-clean-example",
-            "stars": 554
+            "stars": 553
           }
         }
       ],
@@ -1238,10 +1238,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-11T17:18:46Z",
+            "last_commit": "2026-05-16T10:12:56Z",
             "owner": "fastapi",
             "repo": "full-stack-fastapi-template",
-            "stars": 43175
+            "stars": 43185
           }
         },
         {
@@ -1332,7 +1332,7 @@
             "last_commit": "2022-12-08T10:32:45Z",
             "owner": "leosussan",
             "repo": "fastapi-gino-arq-uvicorn",
-            "stars": 554
+            "stars": 553
           }
         },
         {
@@ -1358,7 +1358,7 @@
             "last_commit": "2025-01-01T16:51:48Z",
             "owner": "rednafi",
             "repo": "fastapi-nano",
-            "stars": 1032
+            "stars": 1033
           }
         },
         {
@@ -1813,7 +1813,7 @@
             "last_commit": "2026-05-15T09:47:38Z",
             "owner": "polarsource",
             "repo": "polar",
-            "stars": 9848
+            "stars": 9850
           }
         },
         {
@@ -1839,7 +1839,7 @@
             "last_commit": "2022-08-21T02:23:41Z",
             "owner": "nsidnev",
             "repo": "fastapi-realworld-example-app",
-            "stars": 3110
+            "stars": 3109
           }
         },
         {
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-16T05:20:50.594Z",
+    "last_updated": "2026-05-17T05:41:51.191Z",
     "original_repository": "mjhea0/awesome-fastapi",
     "source_repository": "v1nvn/enhansome-fastapi",
     "source_repository_description": null,
