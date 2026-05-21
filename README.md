@@ -1,6 +1,6 @@
 <!--lint disable double-link-->
 
-# Awesome FastAPI | [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 468,217 | 🐛 76 | 📅 2026-05-05 with stars
+# Awesome FastAPI | [![Awesome](https://awesome.re/badge-flat.svg)](https://github.com/sindresorhus/awesome) ⭐ 468,543 | 🐛 77 | 📅 2026-05-05 with stars
 
 > A curated list of awesome things related to FastAPI.
 
@@ -41,16 +41,16 @@
 
 ### Admin
 
-* [FastAPI Admin](https://github.com/fastapi-admin/fastapi-admin) ⭐ 3,773 | 🐛 76 | 🌐 Python | 📅 2025-04-05 - Functional admin panel that provides a user interface for performing CRUD operations on your data. Currently only works with the Tortoise ORM.
-* [SQLAlchemy Admin](https://github.com/aminalaee/sqladmin) ⭐ 2,726 | 🐛 82 | 🌐 Python | 📅 2026-05-18 - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
-* [FastAPI Amis Admin](https://github.com/amisadmin/fastapi-amis-admin) ⭐ 1,548 | 🐛 77 | 🌐 Python | 📅 2025-12-15 - A high-performance, efficient and easily extensible FastAPI admin framework.
+* [FastAPI Admin](https://github.com/fastapi-admin/fastapi-admin) ⭐ 3,775 | 🐛 76 | 🌐 Python | 📅 2025-04-05 - Functional admin panel that provides a user interface for performing CRUD operations on your data. Currently only works with the Tortoise ORM.
+* [SQLAlchemy Admin](https://github.com/aminalaee/sqladmin) ⭐ 2,729 | 🐛 78 | 🌐 Python | 📅 2026-05-18 - Admin Panel for FastAPI/Starlette that works with SQLAlchemy models.
+* [FastAPI Amis Admin](https://github.com/amisadmin/fastapi-amis-admin) ⭐ 1,550 | 🐛 77 | 🌐 Python | 📅 2025-12-15 - A high-performance, efficient and easily extensible FastAPI admin framework.
 * [Starlette Admin](https://github.com/jowilf/starlette-admin) ⭐ 988 | 🐛 106 | 🌐 Python | 📅 2026-05-18 - Admin framework for FastAPI/Starlette, supporting SQLAlchemy, SQLModel, MongoDB, and ODMantic.
 * [Piccolo Admin](https://github.com/piccolo-orm/piccolo_admin) ⭐ 466 | 🐛 41 | 🌐 Python | 📅 2026-03-06 - A powerful and modern admin GUI, using the Piccolo ORM.
 
 ### Auth
 
-* [FastAPI Users](https://github.com/fastapi-users/fastapi-users) ⭐ 6,136 | 🐛 5 | 🌐 Python | 📅 2026-03-30 - Account management, authentication, authorization.
-* [AuthX](https://github.com/yezz123/AuthX) ⭐ 1,171 | 🐛 5 | 🌐 Python | 📅 2026-05-19 - Customizable Authentications and Oauth2 management for FastAPI.
+* [FastAPI Users](https://github.com/fastapi-users/fastapi-users) ⭐ 6,138 | 🐛 5 | 🌐 Python | 📅 2026-03-30 - Account management, authentication, authorization.
+* [AuthX](https://github.com/yezz123/AuthX) ⭐ 1,171 | 🐛 0 | 🌐 Python | 📅 2026-05-20 - Customizable Authentications and Oauth2 management for FastAPI.
 * [FastAPI JWT Auth](https://github.com/IndominusByte/fastapi-jwt-auth) ⭐ 827 | 🐛 60 | 🌐 Python | 📅 2024-04-12 - JWT auth (based on [Flask-JWT-Extended](https://github.com/vimalloc/flask-jwt-extended) ⭐ 1,583 | 🐛 18 | 🌐 Python | 📅 2026-05-13).
 * [FastAPI Login](https://github.com/maxrdu/fastapi_login) ⭐ 823 | 🐛 1 | 🌐 Python | 📅 2025-05-20 - Account management and authentication (based on [Flask-Login](https://github.com/maxcountryman/flask-login) ⭐ 3,680 | 🐛 19 | 🌐 Python | 📅 2025-08-27).
 * [FastAPI Azure Auth](https://github.com/Intility/fastapi-azure-auth) ⭐ 675 | 🐛 16 | 🌐 Python | 📅 2025-11-01 - Azure AD authentication for your APIs with single and multi tenant support.
@@ -63,7 +63,7 @@
 
 ### CyberSecurity
 
-* [FastAPI Guard](https://github.com/rennf93/fastapi-guard) ⭐ 784 | 🐛 1 | 🌐 Python | 📅 2026-05-14 - Rate Limiting, Automatically Ban IPs, Penetration Attack Detection, Whitelist/blacklist (countries, IPs, Cloud Providers), User Agent Filtering, Geolocation, Redis integration for persistence, and more.
+* [FastAPI Guard](https://github.com/rennf93/fastapi-guard) ⭐ 785 | 🐛 1 | 🌐 Python | 📅 2026-05-14 - Rate Limiting, Automatically Ban IPs, Penetration Attack Detection, Whitelist/blacklist (countries, IPs, Cloud Providers), User Agent Filtering, Geolocation, Redis integration for persistence, and more.
 
 ### Databases
 
@@ -71,18 +71,18 @@
 
 * [GINO](https://github.com/python-gino/gino) ⭐ 2,805 | 🐛 55 | 🌐 Python | 📅 2022-02-12 - A lightweight asynchronous ORM built on top of SQLAlchemy core for Python asyncio.
   * [FastAPI Example](https://github.com/leosussan/fastapi-gino-arq-uvicorn) ⭐ 553 | 🐛 5 | 🌐 Python | 📅 2022-12-08
-* [Piccolo](https://github.com/piccolo-orm/piccolo) ⭐ 1,904 | 🐛 40 | 🌐 Python | 📅 2026-05-11 - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
+* [Piccolo](https://github.com/piccolo-orm/piccolo) ⭐ 1,905 | 🐛 40 | 🌐 Python | 📅 2026-05-11 - An async ORM and query builder, supporting Postgres and SQLite, with batteries (migrations, security, etc).
   * [FastAPI Examples](https://github.com/piccolo-orm/piccolo_examples) ⭐ 107 | 🐛 1 | 🌐 Python | 📅 2025-03-06 - Using FastAPI with Piccolo.
 * [ORM](https://github.com/encode/orm) ⚠️ Archived - An async ORM.
 * [Tortoise ORM](https://tortoise.github.io) - An easy-to-use asyncio ORM (Object Relational Mapper) inspired by Django.
-  * [Aerich](https://github.com/tortoise/aerich) ⭐ 1,089 | 🐛 31 | 🌐 Python | 📅 2026-05-20 - Tortoise ORM migrations tools.
+  * [Aerich](https://github.com/tortoise/aerich) ⭐ 1,090 | 🐛 31 | 🌐 Python | 📅 2026-05-20 - Tortoise ORM migrations tools.
   * [FastAPI Example](https://tortoise.github.io/examples/fastapi.html) - An example of the Tortoise-ORM FastAPI integration.
   * [Tutorial: Setting up Tortoise ORM with FastAPI](https://web.archive.org/web/20200523174158/https://robwagner.dev/tortoise-fastapi-setup/)
 * [FastAPI SQLAlchemy](https://github.com/mfreeborn/fastapi-sqlalchemy) ⭐ 756 | 🐛 20 | 🌐 Python | 📅 2024-04-09 - Simple integration between FastAPI and [SQLAlchemy](https://www.sqlalchemy.org/).
-* [Fastapi-SQLA](https://github.com/dialoguemd/fastapi-sqla) ⭐ 443 | 🐛 12 | 🌐 Python | 📅 2026-05-16 - SQLAlchemy extension for FastAPI with support for pagination, asyncio, and pytest.
+* [Fastapi-SQLA](https://github.com/dialoguemd/fastapi-sqla) ⭐ 443 | 🐛 11 | 🌐 Python | 📅 2026-05-20 - SQLAlchemy extension for FastAPI with support for pagination, asyncio, and pytest.
 * [Edgy ORM](https://github.com/dymmond/edgy) ⭐ 430 | 🐛 1 | 🌐 Python | 📅 2026-04-11 - Complex databases made simple.
 * [Saffier ORM](https://github.com/tarsil/saffier) ⭐ 149 | 🐛 0 | 🌐 Python | 📅 2026-04-20 - The only Python ORM you will ever need.
-* [FastAPIwee](https://github.com/Ignisor/FastAPIwee) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2021-07-09 - A simple way to create REST API based on [PeeWee](https://github.com/coleifer/peewee) ⭐ 11,967 | 🐛 1 | 🌐 Python | 📅 2026-05-18 models.
+* [FastAPIwee](https://github.com/Ignisor/FastAPIwee) ⭐ 105 | 🐛 1 | 🌐 Python | 📅 2021-07-09 - A simple way to create REST API based on [PeeWee](https://github.com/coleifer/peewee) ⭐ 11,968 | 🐛 1 | 🌐 Python | 📅 2026-05-20 models.
 * [FastSQLA](https://github.com/hadrien/FastSQLA) ⭐ 82 | 🐛 3 | 🌐 Python | 📅 2026-05-19 - Async SQLAlchemy 2.0+ extension for FastAPI with SQLModel support, built-in pagination & more.
 * [ormar](https://collerek.github.io/ormar/) - Ormar is an async ORM that uses Pydantic validation and can be used directly in FastAPI requests and responses so you are left with only one set of models to maintain. Alembic migrations included.
   * [FastAPI Example](https://collerek.github.io/ormar/latest/fastapi/) - Using FastAPI with ormar.
@@ -91,8 +91,8 @@
 #### Query Builders
 
 * [Databases](https://github.com/encode/databases) ⚠️ Archived - Async SQL query builder that works on top of the [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/) expression language.
-* [PyPika](https://github.com/kayak/pypika) ⭐ 2,910 | 🐛 231 | 🌐 Python | 📅 2026-02-04 - A SQL query builder that exposes the full richness of the SQL language.
-* [asyncpgsa](https://github.com/CanopyTax/asyncpgsa) ⭐ 509 | 🐛 15 | 🌐 Python | 📅 2024-02-17 - A wrapper around [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,023 | 🐛 275 | 🌐 Python | 📅 2026-02-27 for use with [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/).
+* [PyPika](https://github.com/kayak/pypika) ⭐ 2,909 | 🐛 231 | 🌐 Python | 📅 2026-02-04 - A SQL query builder that exposes the full richness of the SQL language.
+* [asyncpgsa](https://github.com/CanopyTax/asyncpgsa) ⭐ 509 | 🐛 15 | 🌐 Python | 📅 2024-02-17 - A wrapper around [asyncpg](https://github.com/MagicStack/asyncpg) ⭐ 8,024 | 🐛 275 | 🌐 Python | 📅 2026-02-27 for use with [SQLAlchemy Core](https://docs.sqlalchemy.org/en/latest/core/).
 
 #### ODMs
 
@@ -104,18 +104,18 @@
 
 #### Other Tools
 
-* [Pydantic-SQLAlchemy](https://github.com/tiangolo/pydantic-sqlalchemy) ⭐ 1,403 | 🐛 5 | 🌐 Python | 📅 2026-05-19 - Convert SQLAlchemy models to [Pydantic](https://docs.pydantic.dev/latest/) models.
+* [Pydantic-SQLAlchemy](https://github.com/tiangolo/pydantic-sqlalchemy) ⭐ 1,401 | 🐛 5 | 🌐 Python | 📅 2026-05-19 - Convert SQLAlchemy models to [Pydantic](https://docs.pydantic.dev/latest/) models.
 * [FastAPI-CamelCase](https://nf1s.github.io/fastapi-camelcase/) - CamelCase JSON support for FastAPI utilizing [Pydantic](https://docs.pydantic.dev/latest/).
   * [CamelCase Models with FastAPI and Pydantic](https://medium.com/analytics-vidhya/camel-case-models-with-fast-api-and-pydantic-5a8acb6c0eee) - Accompanying blog post from the author of the extension.
 
 ### Dependency Injection
 
-* [Wireup](https://github.com/maldoinc/wireup) ⭐ 396 | 🐛 18 | 🌐 Python | 📅 2026-05-03 - Inject dependencies with zero runtime overhead in FastAPI; Share dependencies across web, cli or other interfaces.
+* [Wireup](https://github.com/maldoinc/wireup) ⭐ 397 | 🐛 18 | 🌐 Python | 📅 2026-05-03 - Inject dependencies with zero runtime overhead in FastAPI; Share dependencies across web, cli or other interfaces.
 
 ### Developer Tools
 
 * [Manage FastAPI](https://github.com/ycd/manage-fastapi) ⭐ 1,903 | 🐛 22 | 🌐 Python | 📅 2024-03-01 - CLI tool for generating and managing FastAPI projects.
-* [FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator) ⭐ 1,393 | 🐛 59 | 🌐 Python | 📅 2026-05-19 - Create a FastAPI app from an OpenAPI file, enabling schema-driven development.
+* [FastAPI Code Generator](https://github.com/koxudaxi/fastapi-code-generator) ⭐ 1,394 | 🐛 59 | 🌐 Python | 📅 2026-05-19 - Create a FastAPI app from an OpenAPI file, enabling schema-driven development.
 * [FastAPI Versioning](https://github.com/DeanWay/fastapi-versioning) ⭐ 845 | 🐛 35 | 🌐 Python | 📅 2023-07-25 - API versioning.
 * [FastAPI MVC](https://github.com/fastapi-mvc/fastapi-mvc) ⭐ 800 | 🐛 35 | 🌐 Python | 📅 2026-05-11 - Developer productivity tool for making high-quality FastAPI production-ready APIs.
 * [FastAPI Client Generator](https://github.com/dmontagu/fastapi_client) ⭐ 430 | 🐛 11 | 🌐 Python | 📅 2023-07-06 - Generate a mypy- and IDE-friendly API client from an OpenAPI spec.
@@ -123,7 +123,7 @@
 * [msgpack-asgi](https://github.com/florimondmanca/msgpack-asgi) ⭐ 277 | 🐛 1 | 🌐 Python | 📅 2026-02-03 - Automatic [MessagePack](https://msgpack.org/) content negotiation.
 * [Jupyter Notebook REST API](https://github.com/Invictify/Jupter-Notebook-REST-API) ⭐ 166 | 🐛 11 | 🌐 Jupyter Notebook | 📅 2022-12-08 - Run your Jupyter notebooks as RESTful API endpoints.
 * [FastAPI Cruddy Framework](https://github.com/mdconaway/fastapi-cruddy-framework) ⭐ 128 | 🐛 0 | 🌐 Python | 📅 2026-05-19 - A companion library to FastAPI designed to bring the development productivity of Ruby on Rails, Ember.js or Sails.js to the FastAPI ecosystem.
-* [python-cqrs](https://github.com/pypatterns/python-cqrs) ⭐ 52 | 🐛 3 | 🌐 Python | 📅 2026-05-12 - Event-Driven Architecture Framework with CQRS, Transaction Outbox, Saga orchestration, seamless FastAPI/FastStream integration.
+* [python-cqrs](https://github.com/pypatterns/python-cqrs) ⭐ 52 | 🐛 4 | 🌐 Python | 📅 2026-05-20 - Event-Driven Architecture Framework with CQRS, Transaction Outbox, Saga orchestration, seamless FastAPI/FastStream integration.
 
 ### Email
 
@@ -131,14 +131,14 @@
 
 ### Utils
 
-* [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) ⭐ 4,654 | 🐛 445 | 🌐 Python | 📅 2026-05-19 - Python GraphQL library based on dataclasses.
-* [FastAPI Utilities](https://github.com/fastapiutils/fastapi-utils) ⭐ 2,308 | 🐛 71 | 🌐 Python | 📅 2025-03-03 - Reusable utilities: class-based views, response inferring router, periodic tasks, timing middleware, SQLAlchemy session, OpenAPI spec simplification.
-* [SlowApi](https://github.com/laurents/slowapi) ⭐ 1,986 | 🐛 105 | 🌐 Python | 📅 2026-05-19 - Rate limiter (based on [Flask-Limiter](https://flask-limiter.readthedocs.io)).
+* [Strawberry GraphQL](https://github.com/strawberry-graphql/strawberry) ⭐ 4,656 | 🐛 445 | 🌐 Python | 📅 2026-05-19 - Python GraphQL library based on dataclasses.
+* [FastAPI Utilities](https://github.com/fastapiutils/fastapi-utils) ⭐ 2,309 | 🐛 71 | 🌐 Python | 📅 2025-03-03 - Reusable utilities: class-based views, response inferring router, periodic tasks, timing middleware, SQLAlchemy session, OpenAPI spec simplification.
+* [SlowApi](https://github.com/laurents/slowapi) ⭐ 1,989 | 🐛 106 | 🌐 Python | 📅 2026-05-19 - Rate limiter (based on [Flask-Limiter](https://flask-limiter.readthedocs.io)).
 * [FastAPI Cache](https://github.com/long2ice/fastapi-cache) ⭐ 1,865 | 🐛 106 | 🌐 Python | 📅 2025-06-30 - A tool to cache FastAPI response and function results, with support for Redis, Memcached, DynamoDB, and in-memory backends.
-* [FastAPI Pagination](https://github.com/uriyyo/fastapi-pagination) ⭐ 1,656 | 🐛 6 | 🌐 Python | 📅 2026-05-19 - Pagination for FastAPI.
-* [FastAPI FastCRUD](https://github.com/benavlabs/fastcrud) ⭐ 1,517 | 🐛 22 | 🌐 Python | 📅 2026-03-11) - Robust async CRUD operations and flexible endpoint creation utilities.
-* [Prometheus FastAPI Instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) ⭐ 1,453 | 🐛 68 | 🌐 Python | 📅 2026-05-19 - A configurable and modular Prometheus Instrumentator for your FastAPI application.
-* [OpenTelemetry FastAPI Instrumentation](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) ⭐ 1,048 | 🐛 597 | 🌐 Python | 📅 2026-05-19 - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
+* [FastAPI Pagination](https://github.com/uriyyo/fastapi-pagination) ⭐ 1,657 | 🐛 6 | 🌐 Python | 📅 2026-05-21 - Pagination for FastAPI.
+* [FastAPI FastCRUD](https://github.com/benavlabs/fastcrud) ⭐ 1,519 | 🐛 22 | 🌐 Python | 📅 2026-03-11) - Robust async CRUD operations and flexible endpoint creation utilities.
+* [Prometheus FastAPI Instrumentator](https://github.com/trallnag/prometheus-fastapi-instrumentator) ⭐ 1,454 | 🐛 68 | 🌐 Python | 📅 2026-05-19 - A configurable and modular Prometheus Instrumentator for your FastAPI application.
+* [OpenTelemetry FastAPI Instrumentation](https://github.com/open-telemetry/opentelemetry-python-contrib/tree/main/instrumentation/opentelemetry-instrumentation-fastapi) ⭐ 1,048 | 🐛 594 | 🌐 Python | 📅 2026-05-20 - Library provides automatic and manual instrumentation of FastAPI web frameworks, instrumenting http requests served by applications utilizing the framework.
 * [FastAPI Limiter](https://github.com/long2ice/fastapi-limiter) ⭐ 784 | 🐛 29 | 🌐 Python | 📅 2026-02-06 - A request rate limiter for FastAPI.
 * [FastAPI Contrib](https://github.com/identixone/fastapi_contrib) ⭐ 743 | 🐛 15 | 🌐 Python | 📅 2022-09-12 - Opinionated set of utilities: pagination, auth middleware, permissions, custom exception handlers, MongoDB support, and Opentracing middleware.
 * [ASGI Correlation ID](https://github.com/snok/asgi-correlation-id) ⭐ 636 | 🐛 4 | 🌐 Python | 📅 2024-10-17 - Request ID logging middleware.
@@ -149,7 +149,7 @@
 * [Starlette Exporter](https://github.com/stephenhillier/starlette_exporter) ⭐ 413 | 🐛 10 | 🌐 Python | 📅 2024-10-15 - One more prometheus integration for FastAPI and Starlette.
 * [FastAPI MQTT](https://github.com/sabuhish/fastapi-mqtt) ⭐ 387 | 🐛 5 | 🌐 Python | 📅 2024-05-22 - An extension for the MQTT protocol.
 * [Starlette Prometheus](https://github.com/perdy/starlette-prometheus) ⭐ 378 | 🐛 15 | 🌐 Python | 📅 2024-05-20 - Prometheus integration for FastAPI and Starlette.
-* [Pydantic Resolve](https://github.com/allmonday/pydantic-resolve) ⭐ 323 | 🐛 3 | 🌐 Python | 📅 2026-05-20 -  Turns pydantic class into a powerful composable computing container by introducing resolve and post-process hooks.
+* [Pydantic Resolve](https://github.com/allmonday/pydantic-resolve) ⭐ 323 | 🐛 4 | 🌐 Python | 📅 2026-05-21 -  Turns pydantic class into a powerful composable computing container by introducing resolve and post-process hooks.
 * [FastAPI Cache](https://github.com/comeuplater/fastapi_cache) ⭐ 306 | 🐛 10 | 🌐 Python | 📅 2026-04-13 - A simple lightweight cache system.
 * [FastAPI Injectable](https://github.com/JasperSui/fastapi-injectable) ⭐ 290 | 🐛 2 | 🌐 Python | 📅 2026-05-19 - Use FastAPI's dependency injection outside route handlers in CLI tools, background tasks, workers, and more.
 * [FastAPI Chameleon](https://github.com/mikeckennedy/fastapi-chameleon) ⭐ 227 | 🐛 1 | 🌐 Python | 📅 2025-04-04 - Adds integration of the Chameleon template language to FastAPI.
@@ -173,7 +173,7 @@
 
 * [Documentation](https://fastapi.tiangolo.com/) - Comprehensive documentation.
 * [Tutorial](https://fastapi.tiangolo.com/tutorial/) - Official tutorial showing you how to use FastAPI with most of its features, step by step.
-* [Source Code](https://github.com/fastapi/fastapi) ⭐ 98,357 | 🐛 188 | 🌐 Python | 📅 2026-05-19 - Hosted on GitHub.
+* [Source Code](https://github.com/fastapi/fastapi) ⭐ 98,380 | 🐛 187 | 🌐 Python | 📅 2026-05-21 - Hosted on GitHub.
 * [Discord](https://discord.com/invite/VQjSZaeJmf) - Chat with other FastAPI users.
 
 ### External Resources
@@ -228,7 +228,7 @@
 
 ### Best Practices
 
-* [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 17,316 | 🐛 12 | 📅 2026-05-03 - Collection of best practices in a GitHub repo.
+* [FastAPI Best Practices](https://github.com/zhanymkanov/fastapi-best-practices) ⭐ 17,328 | 🐛 13 | 📅 2026-05-03 - Collection of best practices in a GitHub repo.
 * [FastAPI Clean Example](https://github.com/ivan-borovets/fastapi-clean-example) ⭐ 554 | 🐛 0 | 🌐 Python | 📅 2026-05-12 - Clean Architecture backend example built with FastAPI.
 * [FastAPI-Dishka-FastStream](https://github.com/faststream-community/fastapi-dishka-faststream) ⭐ 318 | 🐛 1 | 🌐 Python | 📅 2026-04-22 - Combines FastAPI, dishka, faststream, sqlalchemy, pydantic.
 
@@ -257,7 +257,7 @@
 
 Frameworks:
 
-* [Chalice](https://github.com/aws/chalice) ⭐ 11,051 | 🐛 489 | 🌐 Python | 📅 2026-05-12
+* [Chalice](https://github.com/aws/chalice) ⭐ 11,050 | 🐛 489 | 🌐 Python | 📅 2026-05-12
 * [Vercel](https://vercel.com/) - (formerly Zeit) ([example](https://github.com/Snailedlt/Markdown-Videos) ⭐ 174 | 🐛 28 | 🌐 Python | 📅 2025-11-21).
 * [Mangum](https://mangum.io/) - Adapter for running ASGI applications with AWS Lambda and API Gateway.
 
@@ -272,11 +272,11 @@ Compute:
 
 ### Boilerplate
 
-* [Full Stack FastAPI and PostgreSQL - Base Project Generator](https://github.com/fastapi/full-stack-fastapi-template) ⭐ 43,235 | 🐛 34 | 🌐 TypeScript | 📅 2026-05-19 - Full Stack FastAPI Template
+* [Full Stack FastAPI and PostgreSQL - Base Project Generator](https://github.com/fastapi/full-stack-fastapi-template) ⭐ 43,257 | 🐛 35 | 🌐 TypeScript | 📅 2026-05-20 - Full Stack FastAPI Template
   , which includes FastAPI, React, SQLModel, PostgreSQL, Docker, GitHub Actions, automatic HTTPS, and more (developed by the creator of FastAPI, [Sebastián Ramírez](https://github.com/tiangolo)).
-* [FastAPI template](https://github.com/s3rius/FastAPI-template) ⭐ 2,798 | 🐛 37 | 🌐 Python | 📅 2026-05-05 - Flexible, lightweight FastAPI project generator. It includes support for SQLAlchemy, multiple databases, CI/CD, Docker, and Kubernetes.
-* [FastAPI and React Template](https://github.com/Buuntu/fastapi-react) ⭐ 2,585 | 🐛 42 | 🌐 Python | 📅 2023-10-06 - Full stack cookiecutter boilerplate using FastAPI, TypeScript, Docker, PostgreSQL, and React.
-* [openapi-python-client](https://github.com/openapi-generators/openapi-python-client) ⭐ 1,956 | 🐛 111 | 🌐 Python | 📅 2026-05-18 - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
+* [FastAPI template](https://github.com/s3rius/FastAPI-template) ⭐ 2,799 | 🐛 37 | 🌐 Python | 📅 2026-05-05 - Flexible, lightweight FastAPI project generator. It includes support for SQLAlchemy, multiple databases, CI/CD, Docker, and Kubernetes.
+* [FastAPI and React Template](https://github.com/Buuntu/fastapi-react) ⭐ 2,586 | 🐛 42 | 🌐 Python | 📅 2023-10-06 - Full stack cookiecutter boilerplate using FastAPI, TypeScript, Docker, PostgreSQL, and React.
+* [openapi-python-client](https://github.com/openapi-generators/openapi-python-client) ⭐ 1,957 | 🐛 111 | 🌐 Python | 📅 2026-05-18 - Generate modern FastAPI Python clients (via FastAPI) from OpenAPI.
 * [fastapi-alembic-sqlmodel-async](https://github.com/vargasjona/fastapi-alembic-sqlmodel-async) ⭐ 1,269 | 🐛 9 | 🌐 Python | 📅 2026-03-09 - This is a project template which uses FastAPI, Alembic, and async SQLModel as ORM.
 * [FastAPI Nano](https://github.com/rednafi/fastapi-nano) ⭐ 1,033 | 🐛 0 | 🌐 Python | 📅 2026-05-17 - Simple FastAPI template with factory pattern architecture.
 * [Full Stack FastAPI and MongoDB - Base Project Generator](https://github.com/mongodb-labs/full-stack-fastapi-mongodb) ⭐ 811 | 🐛 8 | 🌐 TypeScript | 📅 2025-05-09 - Full stack, modern web application generator, which includes FastAPI, MongoDB, Docker, Celery, React frontend, automatic HTTPS and more.
@@ -300,13 +300,13 @@ Compute:
 
 ### Open Source Projects
 
-* [Polar](https://github.com/polarsource/polar) ⭐ 9,857 | 🐛 98 | 🌐 Python | 📅 2026-05-19 - A funding and monetization platform for developers, built with FastAPI, SQLAlchemy, Alembic, and Arq.
+* [Polar](https://github.com/polarsource/polar) ⭐ 9,859 | 🐛 96 | 🌐 Python | 📅 2026-05-20 - A funding and monetization platform for developers, built with FastAPI, SQLAlchemy, Alembic, and Arq.
 * [Dispatch](https://github.com/Netflix/dispatch) ⚠️ Archived - Manage security incidents.
 * [RealWorld Example App - postgres](https://github.com/nsidnev/fastapi-realworld-example-app) ⚠️ Archived
-* [TermPair](https://github.com/cs01/termpair) ⭐ 1,732 | 🐛 2 | 🌐 Rust | 📅 2026-03-25 - View and control terminals from your browser with end-to-end encryption.
+* [TermPair](https://github.com/cs01/termpair) ⭐ 1,733 | 🐛 2 | 🌐 Rust | 📅 2026-03-25 - View and control terminals from your browser with end-to-end encryption.
 * [Awesome FastAPI Projects](https://github.com/Kludex/awesome-fastapi-projects) ⭐ 1,601 | 🐛 15 | 🌐 TypeScript | 📅 2026-03-30 - Organized list of projects that use FastAPI.
 * [FastAPI with Observability](https://github.com/Blueswen/fastapi-observability) ⭐ 1,100 | 🐛 6 | 🌐 Python | 📅 2026-04-12 - Observe FastAPI app with three pillars of observability: Traces (Tempo), Metrics (Prometheus), Logs (Loki) on Grafana through OpenTelemetry and OpenMetrics.
-* [Bitcart](https://github.com/bitcart/bitcart) ⭐ 942 | 🐛 52 | 🌐 Python | 📅 2026-05-18 - Platform for merchants, users and developers which offers easy setup and use.
+* [Bitcart](https://github.com/bitcart/bitcart) ⭐ 943 | 🐛 52 | 🌐 Python | 📅 2026-05-18 - Platform for merchants, users and developers which offers easy setup and use.
 * [FastAPI with Celery, RabbitMQ, and Redis](https://github.com/GregaVrbancic/fastapi-celery) ⭐ 667 | 🐛 1 | 🌐 Python | 📅 2026-01-07 - Minimal example utilizing FastAPI and Celery with RabbitMQ for task queue, Redis for Celery backend, and Flower for monitoring the Celery tasks.
 * FastAPI CRUD Example:
   * [Async flavor](https://github.com/testdrivenio/fastapi-crud-async) ⭐ 562 | 🐛 4 | 🌐 Python | 📅 2024-02-05
@@ -315,7 +315,7 @@ Compute:
 * [JSON-RPC Server](https://github.com/smagafurov/fastapi-jsonrpc) ⭐ 419 | 🐛 13 | 🌐 Python | 📅 2026-05-19 - JSON-RPC server based on FastAPI.
 * [Sprites as a service](https://github.com/ljvmiranda921/sprites-as-a-service) ⭐ 400 | 🐛 16 | 🌐 Vue | 📅 2023-11-10 - Generate your personal 8-bit avatars using Cellular Automata.
 * [Bunnybook](https://github.com/pietrobassi/bunnybook) ⭐ 398 | 🐛 0 | 🌐 Python | 📅 2022-04-28 - A tiny social network built with FastAPI, React+RxJs, Neo4j, PostgreSQL, and Redis.
-* [FuturamaAPI](https://github.com/koldakov/futuramaapi) ⭐ 394 | 🐛 3 | 🌐 Python | 📅 2026-05-19 - A REST and GraphQL playground built with best practices, providing WebSockets, SSE, callbacks, secret messages, and more.
+* [FuturamaAPI](https://github.com/koldakov/futuramaapi) ⭐ 396 | 🐛 3 | 🌐 Python | 📅 2026-05-19 - A REST and GraphQL playground built with best practices, providing WebSockets, SSE, callbacks, secret messages, and more.
 * [Bali](https://github.com/bali-framework/bali) ⭐ 372 | 🐛 10 | 🌐 Python | 📅 2025-09-10 - Simplify Cloud Native Microservices development base on FastAPI and gRPC.
 * [redis-streams-fastapi-chat](https://github.com/leonh/redis-streams-fastapi-chat) ⭐ 352 | 🐛 0 | 🌐 Python | 📅 2025-11-15 - A simple Redis Streams backed chat app using Websockets, Asyncio and FastAPI/Starlette.
 * [DogeAPI](https://github.com/yezz123/DogeAPI) ⭐ 247 | 🐛 0 | 🌐 Python | 📅 2026-05-18 - API with high performance to create a simple blog and CRUD with OAuth2PasswordBearer.
