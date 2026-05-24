@@ -18,7 +18,7 @@
             "last_commit": "2025-04-05T06:11:16Z",
             "owner": "fastapi-admin",
             "repo": "fastapi-admin",
-            "stars": 3776
+            "stars": 3778
           }
         },
         {
@@ -89,7 +89,7 @@
             "last_commit": "2026-05-21T21:17:31Z",
             "owner": "yezz123",
             "repo": "authx",
-            "stars": 1173
+            "stars": 1174
           }
         },
         {
@@ -373,7 +373,7 @@
             "last_commit": "2026-05-21T17:26:32Z",
             "owner": "piccolo-orm",
             "repo": "piccolo",
-            "stars": 1906
+            "stars": 1904
           }
         },
         {
@@ -969,7 +969,7 @@
             "last_commit": "2025-03-03T19:47:13Z",
             "owner": "fastapiutils",
             "repo": "fastapi-utils",
-            "stars": 2309
+            "stars": 2310
           }
         },
         {
@@ -1047,7 +1047,7 @@
             "last_commit": "2026-05-23T01:11:17Z",
             "owner": "laurentS",
             "repo": "slowapi",
-            "stars": 1992
+            "stars": 1994
           }
         },
         {
@@ -1112,7 +1112,7 @@
             "last_commit": "2026-05-19T17:06:14Z",
             "owner": "strawberry-graphql",
             "repo": "strawberry",
-            "stars": 4659
+            "stars": 4661
           }
         },
         {
@@ -1122,7 +1122,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-21T09:05:16Z",
+            "last_commit": "2026-05-23T12:31:27Z",
             "owner": "allmonday",
             "repo": "pydantic-resolve",
             "stars": 324
@@ -1149,7 +1149,7 @@
             "last_commit": "2026-05-03T18:11:59Z",
             "owner": "zhanymkanov",
             "repo": "fastapi-best-practices",
-            "stars": 17347
+            "stars": 17353
           }
         },
         {
@@ -1238,10 +1238,10 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-05-22T17:17:39Z",
+            "last_commit": "2026-05-23T10:12:44Z",
             "owner": "fastapi",
             "repo": "full-stack-fastapi-template",
-            "stars": 43290
+            "stars": 43296
           }
         },
         {
@@ -1481,7 +1481,7 @@
             "last_commit": "2026-05-22T16:53:08Z",
             "owner": "tiangolo",
             "repo": "uvicorn-gunicorn-fastapi-docker",
-            "stars": 2907
+            "stars": 2908
           }
         },
         {
@@ -1536,7 +1536,7 @@
           "repo_info": {
             "archived": false,
             "language": "TypeScript",
-            "last_commit": "2026-03-30T00:44:12Z",
+            "last_commit": "2026-05-24T00:59:33Z",
             "owner": "Kludex",
             "repo": "awesome-fastapi-projects",
             "stars": 1601
@@ -1657,7 +1657,7 @@
             "last_commit": "2026-04-12T05:52:53Z",
             "owner": "blueswen",
             "repo": "fastapi-observability",
-            "stars": 1099
+            "stars": 1100
           }
         },
         {
@@ -1745,7 +1745,7 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-22T18:56:36Z",
+            "last_commit": "2026-05-23T20:33:14Z",
             "owner": "rclement",
             "repo": "mailer",
             "stars": 149
@@ -1810,10 +1810,10 @@
           "repo_info": {
             "archived": false,
             "language": "Python",
-            "last_commit": "2026-05-22T22:37:42Z",
+            "last_commit": "2026-05-23T21:21:28Z",
             "owner": "polarsource",
             "repo": "polar",
-            "stars": 9865
+            "stars": 9867
           }
         },
         {
@@ -1917,7 +1917,7 @@
     }
   ],
   "metadata": {
-    "last_updated": "2026-05-23T05:33:37.302Z",
+    "last_updated": "2026-05-24T05:54:25.838Z",
     "original_repository": "mjhea0/awesome-fastapi",
     "source_repository": "v1nvn/enhansome-fastapi",
     "source_repository_description": null,
